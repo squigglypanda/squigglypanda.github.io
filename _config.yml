@@ -21,7 +21,7 @@
 title: Caroline Clark
 email: carolinedclark@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A website for Caroline Clark's musings
+  Caroline Clark is a builder based in San Francisco. She used to work in VC at Sequoia, and growth at Atlassian.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: carolinedclark
