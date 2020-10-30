@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Next steps"
+date:   2020-10-15 11:35:12 -0700
+categories: _posts
+---
+Most of these announcement posts are quite boring.
+The short of the long is that I am now back to building!
+
+Of course that means building a new personal website using the `jekyll` static site generator. Wordpress and Medium are simply not options, as it's too easy to setup. We must go the hard route.*
+
+I had a bit of fun building it and customizing it. I decided to go with `Roboto` fonts.
+
+I'll post some musings **here.**
+
+Test [link][link-byte] right here.
+
+[link-byte]: https://jekyllrb.com/docs/home
+
+*Sarcasm.
