@@ -28,7 +28,7 @@ twitter_username: carolinedclark
 github_username:  squigglypanda
 
 # Build settings
-theme: clio
+theme: minima
 plugins:
   - jekyll-feed
 
