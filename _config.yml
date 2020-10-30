@@ -28,7 +28,7 @@ twitter_username: carolinedclark
 github_username:  squigglypanda
 
 # Build settings
-theme: jeykll-swiss
+theme: minima
 plugins:
   - jekyll-feed
 
