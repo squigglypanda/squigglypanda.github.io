@@ -2,7 +2,6 @@
 layout: post
 title:  "One more"
 date:   2020-10-28 11:35:12 -0700
-categories: _posts
 ---
 
-Trying this out.
+TODO
