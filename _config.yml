@@ -1,8 +1,14 @@
-theme: minima
+
 title: Caroline Clark
-email: carolinedclark@gmail.com
 description: "Caroline Clark is a builder based in San Francisco"
-social:
-    twitter: carolinedclark
-    github: squigglypanda
+
+author: Caroline Clark
+email: carolinedclark@gmail.com
+
+theme: minima
+show_excerpts: true
+google_analytics: UA-NNNNNNNN-N
+twitter_username: carolinedclark
+github_username: squigglypanda
+
 
